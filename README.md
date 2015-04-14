@@ -16,8 +16,11 @@ This jam was brought to you by Emily Berkeley, Michael Dao, Krista Nelson and
 Nathan Owsiany.
 
 Emily Berkeley: github.com/EmilyMB
+
 Michael Dao: github.com/mikedao
+
 Krista Nelson: github.com/KristaANelson
+
 Nathan Owsiany: github.com/ndwhtlssthr
 
 ## Notes
