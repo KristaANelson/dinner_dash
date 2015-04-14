@@ -1,25 +1,24 @@
-[![Code Climate](https://codeclimate.com/github/mikedao/dinner_dash/badges/gpa.svg)](https://codeclimate.com/github/mikedao/dinner_dash) [![Stories in Ready](https://badge.waffle.io/mikedao/dinner_dash.png?label=ready&title=Ready)](http://waffle.io/mikedao/dinner_dash)
-
-
+![alt tag](https://github.com/KristaANelson/dinner_dash/blob/master/example_image.png)
 
 ## Dinner Dash
 
-This jam was brought to you by Emily Berkeley, Michael Dao, Krista Nelson and
-Nathan Owsiany.
+This three week group project, creating a food ordering site, was our first Ruby on Rails application. This project focused on creating a session based cart, setting up authentication and securing authorization. My main focus on this project was the user login/logout feature, creating tests that follow the Arrange-Act-Assert pattern, and utilizing Factory Girl.
 
-This project is for the second module at the Turing School of Software and
-Design.
+
+This project is for the second module at the Turing School of Software and Design.
 
 Full project specifications are available here:
 http://tutorials.jumpstartlab.com/projects/dinner_dash.html
 
-Emily Berkeley: https://github.com/EmilyMB
 
-Michael Dao: https://github.com/mikedao
 
-Krista Nelson: https://github.com/KristaANelson
+This jam was brought to you by Emily Berkeley, Michael Dao, Krista Nelson and
+Nathan Owsiany.
 
-Nathan Owsiany: https://github.com/ndwhtlssthr
+Emily Berkeley: github.com/EmilyMB
+Michael Dao: github.com/mikedao
+Krista Nelson: github.com/KristaANelson
+Nathan Owsiany: github.com/ndwhtlssthr
 
 ## Notes
 
